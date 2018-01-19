@@ -11,7 +11,7 @@ printf("enter the limit");
 scanf("%d",&k);
 for(i=0;i<+k;i++)
 {
-sum=suma[i];
+sum=sum+a[i];
 }
 printf("%d",sum);
 }
