@@ -10,7 +10,7 @@ result=result+rem*rem*rem;
 num=num%10;
 }
 if(result==num)
-printf("armstrong no");
+printf("number is armstrong no");
 else
-printf("not armstrong no");
+printf("number is not armstrong no");
 }
